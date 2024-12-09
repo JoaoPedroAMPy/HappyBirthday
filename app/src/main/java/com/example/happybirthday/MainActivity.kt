@@ -93,7 +93,7 @@ fun GreetingImage(message: String, from: String, modifier: Modifier = Modifier) 
             GreetingImage(
                 message = stringResource(R.string.happy_birthday_text),
                 from = stringResource(R.string.signature_text)
-            )
+                )
             }
         }
     }
